@@ -3,7 +3,7 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
+# About me 
 “Do what you love and you'll never have problem with Mondays.”
 
 Ever since I was a kid, I have been fascinated about computers and technology. I still remember the day when I got to use computer for the first in my school and the enthusiastic engineer inside me was born. Throughout these years, my interests have been swinging around technology which encouraged me to pursue Bachelor’s degree in Computer Engineering.
