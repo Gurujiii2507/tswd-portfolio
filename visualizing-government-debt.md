@@ -1,4 +1,10 @@
 | [home page](https://gurujiii2507.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
+#Source Information and Data Explanation
+The data visualized here is sourced from the OECD National Accounts Statistics, a reputable repository that aggregates data on the national accounts of countries. The specific measure of general government debt-to-GDP ratio includes various liabilities such as currency and deposits, debt securities, and loans. It is crucial to note that changes in government debt over time reflect the impact of past government deficits, making the visualized trends an echo of historical economic policies.
+
+
  
 <iframe src="https://data.oecd.org/chart/7faF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7faF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
