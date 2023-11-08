@@ -28,7 +28,7 @@ I aspire to excel in the realm of data visualization, emphasizing the crafting o
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-
+ 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
   
 
