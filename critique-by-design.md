@@ -3,7 +3,10 @@
 # NYC Pizza Slices
 Pizza holds a special place in my heart, and words can scarcely capture the depth of my affection for it. The opportunity to delve into a dataset that resonates with my personal passion is exhilarating. As someone who dreams of exploring the finest yet affordable pizzas in New York City, often hailed as the ultimate pizza paradise, this visualization is not just a tool—it's a window into the evolving landscape of pizza prices and a means to deepen my appreciation and understanding of the city's rich pizza culture.
 
+<img width="945" alt="Screenshot 2023-11-15 at 10 03 36 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/2aa417a9-128d-4d05-a22f-3011b4709f7b">
 Link to Original Visualization : [NYC Slice](https://elkue.com/nyc-slice/) 
+
+
 
 
 # What was missing?
