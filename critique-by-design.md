@@ -18,6 +18,11 @@ In the process of enhancing the data visualization for pizza prices, I conducted
 
 # Refined Palate: The Evolution of NYC Pizza Price Visualization
 
+The final visualization effectively synthesizes user feedback and initial design critiques into a cohesive, interactive dashboard that delineates pizza prices across New York City. It integrates a color-coded map pinpointing price variations, a responsive line chart depicting price trends over time for different pizza styles, and an insightful bar chart comparing average prices by style, complete with filters for date and pizza type. This multifunctional approach, enhanced by clear labeling, accessible color schemes, and user-centric interactivity, transforms the original concept into a dynamic and informative experience, catering to both casual enthusiasts and data-savvy individuals seeking to navigate the delicious landscape of NYC's pizza scene.
+
+
+
+
 <div class='tableauPlaceholder' id='viz1700102308857' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;CheapPizzaSliceinNYC&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CheapPizzaSliceinNYC&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;CheapPizzaSliceinNYC&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700102308857');                    
@@ -30,5 +35,4 @@ In the process of enhancing the data visualization for pizza prices, I conducted
 
 
 
-The final visualization effectively synthesizes user feedback and initial design critiques into a cohesive, interactive dashboard that delineates pizza prices across New York City. It integrates a color-coded map pinpointing price variations, a responsive line chart depicting price trends over time for different pizza styles, and an insightful bar chart comparing average prices by style, complete with filters for date and pizza type. This multifunctional approach, enhanced by clear labeling, accessible color schemes, and user-centric interactivity, transforms the original concept into a dynamic and informative experience, catering to both casual enthusiasts and data-savvy individuals seeking to navigate the delicious landscape of NYC's pizza scene.
 
