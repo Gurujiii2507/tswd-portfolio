@@ -80,7 +80,6 @@ Call to Action: Encourage further research, informed discussions, and evidence-b
 
 
 ## Initial sketches
-<img width="1166" alt="Screenshot 2023-11-21 at 5 43 51 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/8c326cc5-7883-4043-a9d9-884b90f85024">
 <img width="1050" alt="Screenshot 2023-11-21 at 5 41 17 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/b34b3f0b-4c8d-4fb7-ada9-7f3682eb3961">
 
 Source:[ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart), [History of U>S Federal minimum wage](https://fortune.com/2021/03/18/federal-minimum-wage-15-how-much-each-state-history-of-compared-to-other-countries-by-industry/), [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
