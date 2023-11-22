@@ -24,7 +24,7 @@ I aspire to excel in the realm of data visualization, emphasizing the crafting o
   
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+This project explores the intricate dynamics of minimum wages in the United States, examining their historical trajectory, regional variations, and impact on workers’ livelihoods. Through comprehensive data visualization techniques, the project aims to shed light on the complex interplay between minimum wages, economic factors, and social policies.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
