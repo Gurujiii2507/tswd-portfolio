@@ -81,13 +81,18 @@ Call to Action: Encourage further research, informed discussions, and evidence-b
 
 ## Initial sketches
 
-
+Over the years, the federal minimum wage has been raised numerous times. However, when these increases are adjusted for inflation, it becomes clear that the real value of the minimum wage has not always kept pace with the cost of living.
+For example, the minimum wage in the late 1960s, adjusted for inflation, was higher than it is today, meaning that workers from that era had greater purchasing power than minimum wage workers now. This is significant because, over time, the cost of essential goods and services such as housing, food, healthcare, and education has risen, often at a rate that outstrips wage growth.
 
 ![IMG_45424EF78BEB-1](https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/aba0fad7-a8af-4ced-94f8-7518e0ac7e39)
 
 
+
 <img width="1050" alt="Screenshot 2023-11-21 at 5 41 17 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/b34b3f0b-4c8d-4fb7-ada9-7f3682eb3961">
 
+
+This line graph depicts the number of workers paid below the federal minimum wage in the United States from 1981 to roughly the present.
+Nearly 1 Million people in United States depend on Minimum wage for their Survival.
 Source:[ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart), [History of U>S Federal minimum wage](https://fortune.com/2021/03/18/federal-minimum-wage-15-how-much-each-state-history-of-compared-to-other-countries-by-industry/), [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
 
 
