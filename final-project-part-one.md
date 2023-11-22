@@ -3,7 +3,7 @@
 
 # Outline
 High-Level Summary:
-
+In the landscape of American economics, few policies resonate as deeply with the working class as the minimum wage. Established to ensure a basic standard of living, the minimum wage has been a subject of continuous debate and adjustment. This story explores the journey of minimum wage policies in the United States and its impact on those living at or below this economic threshold.
 This project explores the intricate dynamics of minimum wages in the United States, examining their historical trajectory, regional variations, and impact on workers' livelihoods. Through comprehensive data visualization techniques, the project aims to shed light on the complex interplay between minimum wages, economic factors, and social policies.
 
  
@@ -80,6 +80,12 @@ Call to Action: Encourage further research, informed discussions, and evidence-b
 
 
 ## Initial sketches
+
+
+
+![IMG_45424EF78BEB-1](https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/aba0fad7-a8af-4ced-94f8-7518e0ac7e39)
+
+
 <img width="1050" alt="Screenshot 2023-11-21 at 5 41 17 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/b34b3f0b-4c8d-4fb7-ada9-7f3682eb3961">
 
 Source:[ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart), [History of U>S Federal minimum wage](https://fortune.com/2021/03/18/federal-minimum-wage-15-how-much-each-state-history-of-compared-to-other-countries-by-industry/), [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
@@ -133,6 +139,8 @@ Informing Policy Decisions:
 - Providing evidence-based support for policymaking regarding minimum wages, labor market regulations, and economic stimulus measures
 - Assisting policymakers in evaluating the potential impact of proposed policies
 - Enhancing public understanding of economic issues and policy choices
+
+
 
 # Method and medium
 The final project will be an interactive data storytelling piece using a platform like Shorthand.The narrative will explore the historical evolution, regional variations, and socioeconomic implications of minimum wages in the United States, aiming to engage a broad audience, including policymakers, labor rights advocates, economists, educators, and the general public interested in understanding the intricate dynamics of minimum wages.
