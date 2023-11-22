@@ -16,7 +16,8 @@ The visualizations, while informative, lacked some key elements that could enhan
 
 # Initial Thoughts
 In refining the initial data visualizations, I developed a wireframe focused on clarity and user engagement. A crucial addition was the inclusion of a legend in the map visualization, addressing the previous lack of context and making the data points immediately understandable. To enhance accessibility, I revised the color palettes for both the map and line chart, selecting hues that are not only visually appealing but also discernible to those with color vision deficiencies. Furthermore, I integrated a year filter into the line chart, adding an interactive element that allows users to tailor the data display to specific time frames. These enhancements collectively aim to transform the visualizations into more inclusive, informative, and engaging tools, thereby significantly improving their usability and effectiveness.
-![IMG_B8E0DFC3F9F0-1](https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/2b5d6751-53ec-4508-9ac0-02f9de77fc1b)
+
+![IMG_BDC7B5A11C55-1](https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/91ad776e-5b60-472c-82f1-a2ada90551d0)
 
 
 
