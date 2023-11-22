@@ -103,35 +103,45 @@ Data Source: [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
 Data Content
 
 Minimum Wage Data:
-Historical minimum wage rates at the federal and state levels, adjusted for inflation
-Regional variations in minimum wage rates
-Employment data for different industries and demographic groups
-Economic Data:
+- Historical minimum wage rates at the federal and state levels, adjusted for inflation
+- Regional variations in minimum wage rates
+- Employment data for different industries and demographic groups
 
-Real GDP growth
-Unemployment rates
-Inflation rates
-Consumer spending patterns
-Productivity measures
+Economic Data:
+- Real GDP growth
+- Unemployment rates
+- Inflation rates
+- Consumer spending patterns
+-roductivity measures
+
+
 Usage of Data
 
 Analyzing the Impact of Minimum Wages:
 
-Assessing the relationship between minimum wages and employment levels
-Examining the effects of minimum wages on income inequality and poverty
-Evaluating the impact of minimum wages on business costs and competitiveness
+- Assessing the relationship between minimum wages and employment levels
+- Examining the effects of minimum wages on income inequality and poverty
+- Evaluating the impact of minimum wages on business costs and competitiveness
+
+
 Understanding Economic Trends:
+- Identifying patterns and trends in economic indicators
+- Analyzing the impact of economic policies on different sectors of the economy
+- Forecasting future economic trends
 
-Identifying patterns and trends in economic indicators
-Analyzing the impact of economic policies on different sectors of the economy
-Forecasting future economic trends
+
 Informing Policy Decisions:
-
-Providing evidence-based support for policymaking regarding minimum wages, labor market regulations, and economic stimulus measures
-Assisting policymakers in evaluating the potential impact of proposed policies
-Enhancing public understanding of economic issues and policy choices
+- Providing evidence-based support for policymaking regarding minimum wages, labor market regulations, and economic stimulus measures
+- Assisting policymakers in evaluating the potential impact of proposed policies
+- Enhancing public understanding of economic issues and policy choices
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+The final project will be an interactive data storytelling piece using a platform like Shorthand.The narrative will explore the historical evolution, regional variations, and socioeconomic implications of minimum wages in the United States, aiming to engage a broad audience, including policymakers, labor rights advocates, economists, educators, and the general public interested in understanding the intricate dynamics of minimum wages.
 
-Text here...
+Interactive Visualizations
+- Using tools like Tableau or JavaScript libraries for interactive maps and charts.
+
+Narrative Structure
+- A compelling narrative that guides the audience through the data visualizations, providing contextual explanations, real-world examples, and data annotations to enhance understanding.
+
+In summary, The project helps in unveiling the complex dynamics of minimum wages in the United States through data visualization and storytelling.
