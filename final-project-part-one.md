@@ -10,7 +10,7 @@ This project explores the intricate dynamics of minimum wages in the United Stat
 
 Detailed Project Structure
 
-1. Project Introduction
+1.  Project Introduction
 
 Objective: To comprehensively analyze and visualize the evolution of minimum wages in the United States, shedding light on their impact on workers' livelihoods and the broader economic landscape.
 
