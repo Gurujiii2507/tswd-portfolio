@@ -1,34 +1,135 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://gurujiii2507.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+High-Level Summary:
+
+This project explores the intricate dynamics of minimum wages in the United States, examining their historical trajectory, regional variations, and impact on workers' livelihoods. Through comprehensive data visualization techniques, the project aims to shed light on the complex interplay between minimum wages, economic factors, and social policies.
+
  
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Detailed Project Structure
 
-Text here...
+1. Project Introduction
+
+Objective: To comprehensively analyze and visualize the evolution of minimum wages in the United States, shedding light on their impact on workers' livelihoods and the broader economic landscape.
+
+Scope: The project will encompass a holistic examination of minimum wage trends, regional variations, and socioeconomic implications.
+
+Target Audience: Policymakers, labor rights advocates, economists, educators, and the general public interested in understanding the intricate dynamics of minimum wages.
+
+
+
+2. Data Overview
+
+Source:[ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart), [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2), State-level labor departments
+
+Contents: Historical minimum wage data, regional wage variations, employment statistics, economic indicators, demographic data
+
+Preprocessing Needs: Cleaning, formatting, data merging, and deriving new metrics (such as real wage adjustments, poverty rates, and income inequality measures)
+
+
+
+3. Visualization Principles
+
+Clarity and Accessibility: Utilize intuitive and easy-to-follow visualizations, avoiding complex charts that may hinder comprehension.
+
+Data-driven Storytelling: Employ visualizations to effectively communicate insights, patterns, and trends within the data.
+
+Audience-centric Design: Tailor visualizations to the specific interests and understanding level of the target audience.
+
+
+
+4. Data Analysis and Visualization
+
+Historical Trends: Time-series charts to illustrate minimum wage changes over time, adjusted for inflation.
+
+Regional Disparities: Interactive maps to visualize the geographic distribution of minimum wages across the United States.
+
+Economic Implications: Scatter plots and comparative charts to examine the relationship between minimum wages and economic indicators.
+
+Social Impacts: Bar charts and pie charts to depict the effects of minimum wages on poverty rates, income inequality, and demographic groups.
+
+
+
+5. Insights and Interpretation
+
+Identifying Key Trends: Uncover patterns in minimum wage changes, regional disparities, and economic and social impacts.
+
+Comparative Analysis: Assess the differential effects of minimum wages across states, industries, and demographic groups.
+
+
+
+6. Designing the Final Presentation
+
+Layout and Flow: Organize visualizations in a logical sequence that guides the audience through the narrative.
+
+Narrative Development: Craft a compelling narrative that connects the data to real-world implications and policy considerations.
+
+Aesthetic Consideration: Employ a consistent and visually appealing design that enhances the presentation's impact.
+
+
+
+7. Conclusion and Call to Action
+
+Summary of Findings: Concisely summarize key insights and patterns revealed by the data analysis.
+
+Policy Recommendations: Provide evidence-based policy recommendations for policymakers and stakeholders.
+
+Call to Action: Encourage further research, informed discussions, and evidence-based decision-making regarding minimum wage policies.
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="1166" alt="Screenshot 2023-11-21 at 5 43 51 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/8c326cc5-7883-4043-a9d9-884b90f85024">
+<img width="1050" alt="Screenshot 2023-11-21 at 5 41 17 PM" src="https://github.com/Gurujiii2507/tswd-portfolio/assets/40517797/b34b3f0b-4c8d-4fb7-ada9-7f3682eb3961">
 
-Text here...
+Source:[ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart), [History of U>S Federal minimum wage](https://fortune.com/2021/03/18/federal-minimum-wage-15-how-much-each-state-history-of-compared-to-other-countries-by-industry/), [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
+
+
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+U.S. Department of Labor:
+Bureau of Labor Statistics (BLS): Provides comprehensive data on employment, wages, and prices, including the Employment Situation report, the Occupational Employment and Wages Survey (OEWS), and the Consumer Price Index (CPI).
+Bureau of Economic Analysis (BEA): Provides data on the U.S. economy, including gross domestic product (GDP), personal income, and international trade.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Data Source: [ U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart) 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Federal Reserve Economic Data (FRED):
+A database maintained by the Federal Reserve Bank of St. Louis, containing over 11 million economic and financial time series from various sources, including the U.S. Department of Labor, the Bureau of Economic Analysis, and other federal agencies.
+
+Data Source: [Fred Economic Data](https://fred.stlouisfed.org/series/T16OC2)
+Data Content
+
+Minimum Wage Data:
+Historical minimum wage rates at the federal and state levels, adjusted for inflation
+Regional variations in minimum wage rates
+Employment data for different industries and demographic groups
+Economic Data:
+
+Real GDP growth
+Unemployment rates
+Inflation rates
+Consumer spending patterns
+Productivity measures
+Usage of Data
+
+Analyzing the Impact of Minimum Wages:
+
+Assessing the relationship between minimum wages and employment levels
+Examining the effects of minimum wages on income inequality and poverty
+Evaluating the impact of minimum wages on business costs and competitiveness
+Understanding Economic Trends:
+
+Identifying patterns and trends in economic indicators
+Analyzing the impact of economic policies on different sectors of the economy
+Forecasting future economic trends
+Informing Policy Decisions:
+
+Providing evidence-based support for policymaking regarding minimum wages, labor market regulations, and economic stimulus measures
+Assisting policymakers in evaluating the potential impact of proposed policies
+Enhancing public understanding of economic issues and policy choices
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
