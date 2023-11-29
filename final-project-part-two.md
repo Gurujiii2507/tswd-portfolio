@@ -15,6 +15,7 @@ I have decided to use shorthand to integrate my wireframes and storyboards, whic
 - Students with an interest in effects of economic policies on society.
 - Economists and Researchers
 
+## Approach
 Adopting a more personalized and targeted approach to engage the general public and students with an interest in economic issues, I focused on leveraging the insights of individuals in my immediate network who are known for their perspicacity and ability to deconstruct complex ideas. The goal was to understand how to effectively communicate intricate economic concepts, like the federal minimum wage, in a manner that resonates with a broader audience.
 
 
@@ -49,6 +50,7 @@ Text here!
 | Question you asked here | Insightful feedback            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
+
 
 
 # Identified changes for Part III
