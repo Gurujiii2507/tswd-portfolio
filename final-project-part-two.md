@@ -6,6 +6,7 @@ The federal minimum wage in the United States, established in 1938 under the Fai
 
 # Wireframes / storyboards
 I have decided to use shorthand to integrate my wireframes and storyboards, which can be viewed in the following link:
+[https://carnegiemellon.shorthandstories.com/Federal-minimum-wage/index.html](https://carnegiemellon.shorthandstories.com/Federal-minimum-wage/index.html)
 
 
 # User research 
